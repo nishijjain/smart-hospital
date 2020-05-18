@@ -1,3 +1,2 @@
-# smart-hospital
+# Smart-Hospital
 Webtech Additional
-Test Github turtorial
