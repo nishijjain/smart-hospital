@@ -1,2 +1,1 @@
-I'm the best
-Webtech Additional
+A web portal for hospital management system catering to all hospital needs.
